@@ -1,0 +1,35 @@
+:root {
+    --white: #f2f2f2;
+    --doinb: #22f2f2;
+    --asdf: #f2f2f2;
+    --asdf: #f2f2f2;
+    --white: #f2f2f2;
+}
+
+
+
+body {
+    font-family: Inter;
+    margin: 90px;
+    padding: 20px;
+}
+
+nav ul {
+    background-color: var(--white);
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}
+
+nav ul li {
+    float:left;
+}
+
+nav ul li a {
+    display: block;
+    color: var(--white);
+    text-align: center;
+    padding: 16px 8px;
+    text-decoration: none:
+}
